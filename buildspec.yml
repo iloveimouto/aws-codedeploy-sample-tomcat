@@ -6,7 +6,7 @@ phases:
       java: openjdk8
   build:
     commands:
-      - echo Build completed on `date`
+      - echo Build completed on `datee`
       - mvn package
 
 artifacts:
